@@ -18,7 +18,7 @@ The ultrasonic sensor sends ultrasonic waves through the TRIG pin. These waves r
 
 ## Circuit Diagram
 
-![Circuit](ultrasonic_circuit.png)
+![Circuit](ultrasonic.png)
 
 ## Code
 
